@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = reynders.hadrien@gmail.com
+	name = Hadrien Reynders
